@@ -81,7 +81,7 @@ D.	Insights & Analysis
 •	Strengthened skills in data cleaning, modeling, and visualization.
 
 6.Screenshot of the dashboard:
-![dashboard preview]()
+![dashboard preview](https://github.com/Suhas9797/Super-store-dashboard/blob/main/Snapshot%20of%20the%20dashboard.png)
 
 •	Learned how to design dashboards that highlight actionable insights for decision-makers.
 
