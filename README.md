@@ -22,7 +22,7 @@ This project features an interactive Superstore Dashboard built in Power BI. It 
 
 3. My Role & Contributions:
    
-1.	Data Collection & Preparation
+ A.	Data Collection & Preparation
    
 •	Used the Superstore dataset from Kaggle (sales transactions across regions, categories, and customers).
 
@@ -30,7 +30,7 @@ This project features an interactive Superstore Dashboard built in Power BI. It 
 
 •	Prepared structured tables for seamless integration into Power BI.
 
-2.	Data Modeling
+B.	Data Modeling
 	
 •	Designed relationships between fact tables (Orders, Sales) and dimension tables (Customers, Products, Regions, Categories).
 
@@ -41,7 +41,8 @@ This project features an interactive Superstore Dashboard built in Power BI. It 
   2.	Total Profit & Profit Margin
   3.	Average Order Value
   4.	Year-over-Year Growth
-3.	Dashboard Development
+     
+C.	Dashboard Development
 	
 •	Built an interactive and user-friendly interface in Power BI.
 
@@ -53,7 +54,7 @@ This project features an interactive Superstore Dashboard built in Power BI. It 
    
 •	Designed KPIs and visuals with slicers for time, region, category, and segment filters.
 
-4.	Insights & Analysis
+D.	Insights & Analysis
    
 •	Identified high-profit categories and products driving business growth.
 
@@ -62,5 +63,29 @@ This project features an interactive Superstore Dashboard built in Power BI. It 
 •	Analyzed customer purchase patterns to support retention strategies.
 
 •	Provided visibility into seasonal and regional sales trends.
+
+4. Tools & Technologies:
+   
+•	Power BI Desktop – Data modeling & visualization
+
+•	DAX (Data Analysis Expressions) – Custom calculations & KPIs
+
+•	Data Modeling – Star schema with relationships
+
+•	Dataset Source – Kaggle (Superstore dataset)
+
+5. Outcomes & Learnings:
+   
+•	Built a professional business intelligence dashboard from scratch.
+
+•	Strengthened skills in data cleaning, modeling, and visualization.
+
+6.Screenshot of the dashboard:
+![dashboard preview]()
+
+•	Learned how to design dashboards that highlight actionable insights for decision-makers.
+
+•	Delivered a scalable and reusable template for Superstore sales analytics.
+
 
 
